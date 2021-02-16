@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.80.0">
-    <title>Sticky Footer Navbar Template · Bootstrap v5.0</title>
+    <title>Examen Jesus Cordoba</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sticky-footer-navbar/">
 
@@ -59,16 +59,18 @@
     <!-- Begin page content -->
     <main class="flex-shrink-0">
         <div class="container">
-            <h1 class="mt-5">Sticky footer with fixed navbar</h1>
-            <p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and
-                CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code
-                    class="small">main &gt; .container</code>.</p>
-            <p>Back to <a href="/docs/5.0/examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
+            <h1 class="mt-1 text-light">Sticky footer with fixed navbar</h1>
+            <h1>Examen</h1>
+            <img
+                src="https://images.pexels.com/photos/3837278/pexels-photo-3837278.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate obcaecati est possimus fugiat, rerum
+                repellendus sit quibusdam fugit sapiente, odit culpa perferendis labore? Ex laborum labore natus tempore
+                vel iusto.</p>
         </div>
     </main>
 
     @include('footer')
-  
+
     <script src="/docs/5.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous">
     </script>
