@@ -24,3 +24,7 @@ Route::get('/migraciones', function () {
 Route::get('/seeders', function () {
     return view('seeders');
 });
+
+Route::get('/mail', function () {
+    return view('mail');
+});
