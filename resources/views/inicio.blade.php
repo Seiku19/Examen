@@ -62,7 +62,7 @@
             <h1 class="mt-1 text-light">Sticky footer with fixed navbar</h1>
             <h1>Examen</h1>
             <img
-                src="https://images.pexels.com/photos/3837278/pexels-photo-3837278.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">
+                src="https://images.pexels.com/photos/5357984/pexels-photo-5357984.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate obcaecati est possimus fugiat, rerum
                 repellendus sit quibusdam fugit sapiente, odit culpa perferendis labore? Ex laborum labore natus tempore
                 vel iusto.</p>
